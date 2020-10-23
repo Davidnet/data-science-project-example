@@ -1,0 +1,4 @@
+xgboost==1.2.1
+lightgbm==3.0.0
+catboost==0.24.2
+
